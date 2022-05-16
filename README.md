@@ -12,3 +12,8 @@ Start-->Settings-->Time & Language-->
 Under Microphone, select the Get started button.
 
 This profile is still a work in progress please check back often to see if commands have been changed/implemented. I will try to keep it up to date with the DDCS and DCS menus.
+
+
+Changelog:
+- Added ZTZ to Redfor Tanks
+- Added Redfor IFV Commands
