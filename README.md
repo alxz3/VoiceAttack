@@ -1,3 +1,5 @@
+All Credits to: https://github.com/Swooperduper/VoiceAttack/
+
 # VoiceAttack
  
 This is a community Voice Attack Server Profile that works with the DDCS server.
