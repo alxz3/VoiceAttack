@@ -15,12 +15,6 @@ Under Microphone, select the Get started button.
 
 This profile is still a work in progress please check back often to see if commands have been changed/implemented. I will try to keep it up to date with the DDCS and DCS menus.
 
-<<<<<<< Updated upstream
-
-Changelog:
-- Added ZTZ to Redfor Tanks
-- Added Redfor IFV Commands
-=======
 Changelog 5/18/2022:
 
 - Overhauled Profile
@@ -40,4 +34,3 @@ Changelog 5/17/2022:
 - Added ZTZ to Redfor Tanks
 - Added Redfor IFV Commands
 
->>>>>>> Stashed changes
