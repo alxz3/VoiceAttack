@@ -18,17 +18,17 @@ This profile is still a work in progress please check back often to see if comma
 Changelog 5/18/2022:
 
 - Overhauled Profile
--- Usage of Execute Commands instead of Full Keypress Rotations
+- Usage of Execute Commands instead of Full Keypress Rotations
+- Changed Profile Name to something Fancy
 
--- Changed Profile Name to something Fancy
+- Added Slingloading Operations
+> "show cargo" | shows cargo near you
 
--- Added Slingloading Operations
---- "show cargo" | shows cargo near you
----- "(get) nearest cargo | selects nearest cargo for slingloading
+>  "(get) nearest cargo" | selects nearest cargo for slingloading
 
--- Disabled AWACS Commands due to not clear which AWACS is the right one, probably will set Interger Command one day
+- Disabled AWACS Commands due to not clear which AWACS is the right one, probably will set Interger Command one day
 
--- Added Mi-24P Ready Weapons/Activate Weapons Command (Left CTRL+W)
+- Added Mi-24P Ready Weapons/Activate Weapons Command (Left CTRL+W)
 
 Changelog 5/17/2022:
 - Added ZTZ to Redfor Tanks
