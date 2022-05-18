@@ -15,7 +15,29 @@ Under Microphone, select the Get started button.
 
 This profile is still a work in progress please check back often to see if commands have been changed/implemented. I will try to keep it up to date with the DDCS and DCS menus.
 
+<<<<<<< Updated upstream
 
 Changelog:
 - Added ZTZ to Redfor Tanks
 - Added Redfor IFV Commands
+=======
+Changelog 5/18/2022:
+
+- Overhauled Profile
+-- Usage of Execute Commands instead of Full Keypress Rotations
+
+-- Changed Profile Name to something Fancy
+
+-- Added Slingloading Operations
+--- "show cargo" | shows cargo near you
+---- "(get) nearest cargo | selects nearest cargo for slingloading
+
+-- Disabled AWACS Commands due to not clear which AWACS is the right one, probably will set Interger Command one day
+
+-- Added Mi-24P Ready Weapons/Activate Weapons Command (Left CTRL+W)
+
+Changelog 5/17/2022:
+- Added ZTZ to Redfor Tanks
+- Added Redfor IFV Commands
+
+>>>>>>> Stashed changes
